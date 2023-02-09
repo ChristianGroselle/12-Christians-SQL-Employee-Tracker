@@ -20,7 +20,7 @@ N/A
 
 ## Usage
 
-To use the app run npm i then node index.js
+To use the app run npm i then node index.js \
 then follow the on screen instructions and prompts to interact with the database.
 
 ## Contributing
